@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://feisky.xyz/about">
+<a href="https:/rlevchenko.com">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rlevchenko&show_icons=true" />
 </a>
-<a href="https://feisky.xyz/about">
+<a href="https://rlevchenko.com">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlevchenko" />
 </a>
 
