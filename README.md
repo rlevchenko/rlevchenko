@@ -16,7 +16,9 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 [![Update readme with blog posts](https://github.com/rlevchenko/rlevchenko/actions/workflows/get-posts-rss.yml/badge.svg)](https://github.com/rlevchenko/rlevchenko/actions/workflows/get-posts-rss.yml)
 </div>
 
-### 📙 Blog Posts
+
+### Blog Posts
+<p align="center">
 <!--START_SECTION:feed-->
 - [Application Gateway: Incorrect certificate chain or order](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;03&#x2F;27&#x2F;application-gateway-incorrect-certificate-chain-or-order&#x2F;)
 - [This World Backup Day, WIN with Altaro!](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;03&#x2F;22&#x2F;this-world-backup-day-win-with-altaro-2&#x2F;)
@@ -24,3 +26,5 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 - [Free eBook – A SysAdmin’s Guide to Azure IaaS – Second Edition.  ](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;01&#x2F;26&#x2F;free-ebook-a-sysadmins-guide-to-azure-iaas-second-edition&#x2F;)
 - [2021 Performance Review](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;01&#x2F;10&#x2F;2021-performance-review&#x2F;)
 <!--END_SECTION:feed-->
+</p>
+
