@@ -12,5 +12,6 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://rlevchenko.com/rss/
+          max: 3
           readme-section: feed
           template: "#### [{{ title }}]({{ link }}) \n*{{ pubDate }}*\n\n"
