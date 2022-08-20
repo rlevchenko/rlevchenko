@@ -26,10 +26,6 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 *Tue, 22 Mar 2022 08:17:01 +0000*
 #### [Azure DevOps: Update service connection expired secret](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;03&#x2F;04&#x2F;azure-devops-update-service-connection-expired-secret&#x2F;) 
 *Fri, 04 Mar 2022 11:17:57 +0000*
-#### [Free eBook – A SysAdmin’s Guide to Azure IaaS – Second Edition.  ](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;01&#x2F;26&#x2F;free-ebook-a-sysadmins-guide-to-azure-iaas-second-edition&#x2F;) 
-*Wed, 26 Jan 2022 08:41:44 +0000*
-#### [2021 Performance Review](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;01&#x2F;10&#x2F;2021-performance-review&#x2F;) 
-*Mon, 10 Jan 2022 09:11:11 +0000*
 <!--END_SECTION:feed-->
 </p>
 
