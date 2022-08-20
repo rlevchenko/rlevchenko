@@ -1,0 +1,19 @@
+name: Update readme with blog posts
+on: 
+  schedule:
+    - cron: 30 20 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://rlevchenko.com/rss/
+          readme-section: feed
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://lukelowrey.com/notes/rss/
+          readme-section: notes
