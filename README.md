@@ -14,3 +14,6 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 [![trophy](https://github-profile-trophy.vercel.app/?username=rlevchenko&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
