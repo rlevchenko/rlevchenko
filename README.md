@@ -11,9 +11,9 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 <div align="center">
 <p align="center">
 <p>You are welcome!</p>
-<a href="https://twitter.com/rlevchenko" target="_blank"><img height="30" src="https://github.com/rlevchenko/rlevchenko/blob/main/icons/twitter.png?raw=true"></a>&nbsp;
-<a href="http://facebook.com/rlevchenko1/" target="_blank"><img height="30" src="https://github.com/rlevchenko/rlevchenko/blob/main/icons/facebook.png?raw=true"></a>&nbsp;
-<a href="https://www.linkedin.com/in/rlevchenko/" target="_blank"><img height="30" src="https://github.com/rlevchenko/rlevchenko/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;
+<a href="https://twitter.com/rlevchenko" target="external"><img height="30" src="https://github.com/rlevchenko/rlevchenko/blob/main/icons/twitter.png?raw=true"></a>&nbsp;
+<a href="http://facebook.com/rlevchenko1/" target="external"><img height="30" src="https://github.com/rlevchenko/rlevchenko/blob/main/icons/facebook.png?raw=true"></a>&nbsp;
+<a href="https://www.linkedin.com/in/rlevchenko/" target="external"><img height="30" src="https://github.com/rlevchenko/rlevchenko/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rlevchenko&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
