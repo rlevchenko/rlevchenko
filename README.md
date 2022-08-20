@@ -5,6 +5,7 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 </div>
 
 <h3 aligh="left"> 📙 Blog Posts</h3>
+
 <!--START_SECTION:feed-->
 - [Application Gateway: Incorrect certificate chain or order](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;03&#x2F;27&#x2F;application-gateway-incorrect-certificate-chain-or-order&#x2F;))
 - [This World Backup Day, WIN with Altaro!](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;03&#x2F;22&#x2F;this-world-backup-day-win-with-altaro-2&#x2F;))
