@@ -18,6 +18,7 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 
 <div align="center">
 <p align="center">
+
 ### Blog Posts
 
 <!--START_SECTION:feed-->
