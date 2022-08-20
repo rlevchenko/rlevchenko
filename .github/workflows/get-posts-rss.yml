@@ -13,4 +13,4 @@ jobs:
         with:
           feed-url: https://rlevchenko.com/rss/
           readme-section: feed
-          template: "> {{ excerpt }}\n\n[Read more!]({{ url }})"
+          template: "> [{{ title }}]({{ link }}))"
