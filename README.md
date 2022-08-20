@@ -16,9 +16,10 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 [![Update readme with blog posts](https://github.com/rlevchenko/rlevchenko/actions/workflows/get-posts-rss.yml/badge.svg)](https://github.com/rlevchenko/rlevchenko/actions/workflows/get-posts-rss.yml)
 </div>
 
-
-### Blog Posts
+<div align="center">
 <p align="center">
+### Blog Posts
+
 <!--START_SECTION:feed-->
 > 
 
@@ -37,4 +38,4 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 [Read more!]()
 <!--END_SECTION:feed-->
 </p>
-
+</div>
