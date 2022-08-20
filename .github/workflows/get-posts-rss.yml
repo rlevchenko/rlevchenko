@@ -1,8 +1,10 @@
 name: Update readme with blog posts
 on: 
   schedule:
-    - cron: '40 17 * * *'
-
+    - cron: '30 09 * * *'
+  push:
+    branches:
+      - main
 jobs:
   update:
     runs-on: ubuntu-latest
