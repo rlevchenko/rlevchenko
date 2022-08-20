@@ -11,7 +11,10 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 <a href="https://www.linkedin.com/in/rlevchenko/" target="external"><img height="30" src="https://github.com/rlevchenko/rlevchenko/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rlevchenko&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Update readme with blog posts](https://github.com/rlevchenko/rlevchenko/actions/workflows/get-posts-rss.yml/badge.svg)](https://github.com/rlevchenko/rlevchenko/actions/workflows/get-posts-rss.yml)
+
 </div>
 
 <div align="center">
@@ -28,7 +31,4 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 *Fri, 04 Mar 2022 11:17:57 +0000*
 <!--END_SECTION:feed-->
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rlevchenko&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
