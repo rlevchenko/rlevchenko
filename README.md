@@ -23,6 +23,7 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 #### [Azure DevOps: Update service connection expired secret](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;03&#x2F;04&#x2F;azure-devops-update-service-connection-expired-secret&#x2F;) 
 *Fri, 04 Mar 2022 11:17:57 +0000*
 <!--END_SECTION:feed-->
+
 </p>
 </div>
 
