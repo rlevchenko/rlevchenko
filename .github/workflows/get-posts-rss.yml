@@ -1,7 +1,7 @@
 name: Update readme with blog posts
 on: 
   schedule:
-    - cron: '10 12 * * *'
+    - cron: '00 06 * * *'
   push:
     branches: [ main ]
 jobs:
@@ -14,5 +14,5 @@ jobs:
           max: 3
           readme-section: feed
           branch: main
-          empty-commits: true
+          empty-commits: false
           template: "#### [{{ title }}]({{ link }}) \n*{{ pubDate }}*\n\n"
