@@ -11,5 +11,6 @@ jobs:
           feed-url: https://rlevchenko.com/rss/
           max: 3
           readme-section: feed
+          branch: main
           empty-commits: false
           template: "#### [{{ title }}]({{ link }}) \n*{{ pubDate }}*\n\n"
