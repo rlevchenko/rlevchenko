@@ -16,11 +16,11 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 ### Blog Posts
 
 <!--START_SECTION:feed-->
-#### [Application Gateway: Incorrect certificate chain or order](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;03&#x2F;27&#x2F;application-gateway-incorrect-certificate-chain-or-order&#x2F;) 
+#### [Application Gateway: Incorrect certificate chain or order](https://rlevchenko.com/2022/03/27/application-gateway-incorrect-certificate-chain-or-order/) 
 *Sun, 27 Mar 2022 12:13:24 +0000*
-#### [This World Backup Day, WIN with Altaro!](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;03&#x2F;22&#x2F;this-world-backup-day-win-with-altaro-2&#x2F;) 
+#### [This World Backup Day, WIN with Altaro!](https://rlevchenko.com/2022/03/22/this-world-backup-day-win-with-altaro-2/) 
 *Tue, 22 Mar 2022 08:17:01 +0000*
-#### [Azure DevOps: Update service connection expired secret](https:&#x2F;&#x2F;rlevchenko.com&#x2F;2022&#x2F;03&#x2F;04&#x2F;azure-devops-update-service-connection-expired-secret&#x2F;) 
+#### [Azure DevOps: Update service connection expired secret](https://rlevchenko.com/2022/03/04/azure-devops-update-service-connection-expired-secret/) 
 *Fri, 04 Mar 2022 11:17:57 +0000*
 <!--END_SECTION:feed-->
 
