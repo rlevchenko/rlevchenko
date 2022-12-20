@@ -16,12 +16,12 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 ### Blog Posts
 
 <!--START_SECTION:feed-->
+#### [Python Coding: FizzBuzz challenge](https://rlevchenko.com/2022/12/19/python-coding-fizzbuzz-challenge/) 
+*Mon, 19 Dec 2022 09:32:26 +0000*
 #### [Simple PostgreSQL Backup Agent](https://rlevchenko.com/2022/11/05/simple-postgresql-backup-agent/) 
 *Sat, 05 Nov 2022 10:09:19 +0000*
 #### [Application Gateway: Incorrect certificate chain or order](https://rlevchenko.com/2022/03/27/application-gateway-incorrect-certificate-chain-or-order/) 
 *Sun, 27 Mar 2022 12:13:24 +0000*
-#### [This World Backup Day, WIN with Altaro!](https://rlevchenko.com/2022/03/22/this-world-backup-day-win-with-altaro-2/) 
-*Tue, 22 Mar 2022 08:17:01 +0000*
 <!--END_SECTION:feed-->
 
 </p>
