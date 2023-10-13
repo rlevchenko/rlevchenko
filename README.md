@@ -16,12 +16,12 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 ### Blog Posts
 
 <!--START_SECTION:feed-->
+#### [How to move ClickHouse data to a new partition](https://rlevchenko.com/2023/10/12/how-to-move-clickhouse-data-to-a-new-partition/) 
+*Thu, 12 Oct 2023 11:30:28 +0000*
 #### [Simple ClickHouse backup agent](https://rlevchenko.com/2023/09/12/simple-clickhouse-backup-agent/) 
 *Tue, 12 Sep 2023 13:18:21 +0000*
 #### [Git: clone succeeded, but checkout failed](https://rlevchenko.com/2023/05/13/git-clone-succeeded-but-checkout-failed/) 
 *Sat, 13 May 2023 09:00:14 +0000*
-#### [Python Coding: FizzBuzz challenge](https://rlevchenko.com/2022/12/19/python-coding-fizzbuzz-challenge/) 
-*Mon, 19 Dec 2022 09:32:26 +0000*
 <!--END_SECTION:feed-->
 
 </p>
