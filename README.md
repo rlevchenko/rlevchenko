@@ -16,12 +16,12 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 ### Blog Posts
 
 <!--START_SECTION:feed-->
+#### [How to enable ACL in Kafka running on Kubernetes](https://rlevchenko.com/2024/01/26/how-to-enable-acl-in-kafka-running-on-kubernetes/) 
+*Fri, 26 Jan 2024 18:34:56 +0000*
 #### [Create diagram as code in Python](https://rlevchenko.com/2023/12/26/create-diagram-as-code-in-python/) 
 *Tue, 26 Dec 2023 08:32:49 +0000*
 #### [How to move ClickHouse data to a new partition](https://rlevchenko.com/2023/10/12/how-to-move-clickhouse-data-to-a-new-partition/) 
 *Thu, 12 Oct 2023 11:30:28 +0000*
-#### [Simple ClickHouse backup agent](https://rlevchenko.com/2023/09/12/simple-clickhouse-backup-agent/) 
-*Tue, 12 Sep 2023 13:18:21 +0000*
 <!--END_SECTION:feed-->
 
 </p>
