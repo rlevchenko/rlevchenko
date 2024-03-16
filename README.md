@@ -16,12 +16,12 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 ### Blog Posts
 
 <!--START_SECTION:feed-->
+#### [Technical Review: Amazon Web Services in Action, Third Edition](https://rlevchenko.com/2024/03/15/technical-review-amazon-web-services-in-action-third-edition/) 
+*Fri, 15 Mar 2024 08:46:24 +0000*
 #### [Technical Review: Practical Automation with PowerShell](https://rlevchenko.com/2024/03/03/technical-review-practical-automation-with-powershell/) 
 *Sun, 03 Mar 2024 19:47:40 +0000*
 #### [How to enable ACL in Kafka running on Kubernetes](https://rlevchenko.com/2024/01/26/how-to-enable-acl-in-kafka-running-on-kubernetes/) 
 *Fri, 26 Jan 2024 18:34:56 +0000*
-#### [Create diagram as code in Python](https://rlevchenko.com/2023/12/26/create-diagram-as-code-in-python/) 
-*Tue, 26 Dec 2023 08:32:49 +0000*
 <!--END_SECTION:feed-->
 
 </p>
