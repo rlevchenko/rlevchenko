@@ -16,12 +16,12 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 ### Blog Posts
 
 <!--START_SECTION:feed-->
+#### [Solving Docker Hub rate limits in Kubernetes with containerd registry mirrors](https://rlevchenko.com/2025/01/26/solving-docker-hub-rate-limits-in-kubernetes-with-containerd-registry-mirrors/) 
+*Sun, 26 Jan 2025 09:59:54 +0000*
+#### [Argo CD Login and API: received unexpected content-type or TLS handshake timeout](https://rlevchenko.com/2024/09/27/argo-cd-login-and-api-received-unexpected-content-type-or-tls-handshake-timeout/) 
+*Fri, 27 Sep 2024 11:34:44 +0000*
 #### [Technical Review: Learn PowerShell in a Month of Lunches, Fourth Edition](https://rlevchenko.com/2024/04/10/technical-review-learn-powershell-in-a-month-of-lunches-fourth-edition/) 
 *Wed, 10 Apr 2024 10:04:46 +0000*
-#### [Technical Review: Amazon Web Services in Action, Third Edition](https://rlevchenko.com/2024/03/15/technical-review-amazon-web-services-in-action-third-edition/) 
-*Fri, 15 Mar 2024 08:46:24 +0000*
-#### [Technical Review: Practical Automation with PowerShell](https://rlevchenko.com/2024/03/03/technical-review-practical-automation-with-powershell/) 
-*Sun, 03 Mar 2024 19:47:40 +0000*
 <!--END_SECTION:feed-->
 
 </p>
