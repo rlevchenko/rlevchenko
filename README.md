@@ -16,12 +16,12 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 ### Blog Posts
 
 <!--START_SECTION:feed-->
+#### [Using the GitLab Rails Console: Practical Examples for Managing Container Registry](https://rlevchenko.com/2026/01/18/using-the-gitlab-rails-console-practical-examples-for-managing-container-registry/) 
+*Sun, 18 Jan 2026 16:23:17 +0000*
+#### [Why GitLab Fails with “Operation Not Permitted” on Windows Using Podman](https://rlevchenko.com/2026/01/11/why-gitlab-fails-with-operation-not-permitted-on-windows-using-podman/) 
+*Sun, 11 Jan 2026 15:33:44 +0000*
 #### [Fixing GitLab Runner Issues on Kubernetes](https://rlevchenko.com/2025/03/17/fixing-gitlab-runner-issues-on-kubernetes/) 
 *Mon, 17 Mar 2025 13:23:43 +0000*
-#### [Solving Docker Hub rate limits in Kubernetes with containerd registry mirrors](https://rlevchenko.com/2025/01/26/solving-docker-hub-rate-limits-in-kubernetes-with-containerd-registry-mirrors/) 
-*Sun, 26 Jan 2025 09:59:54 +0000*
-#### [Argo CD Login and API: received unexpected content-type or TLS handshake timeout](https://rlevchenko.com/2024/09/27/argo-cd-login-and-api-received-unexpected-content-type-or-tls-handshake-timeout/) 
-*Fri, 27 Sep 2024 11:34:44 +0000*
 <!--END_SECTION:feed-->
 
 </p>
