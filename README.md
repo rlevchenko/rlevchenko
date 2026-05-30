@@ -16,12 +16,12 @@ I am a former Microsoft Most Valuable Professional (2014-2022, Azure and Datacen
 ### Blog Posts
 
 <!--START_SECTION:feed-->
+#### [How to fix Allure TestOps configuration errors (PostgreSQL, Redis, Spring, RabbitMQ)](https://rlevchenko.com/2026/05/30/how-to-fix-allure-testops-configuration-errors-postgresql-redis-spring-rabbitmq/) 
+*Fri, 29 May 2026 20:45:21 +0000*
 #### [Fixing a Broken etcd Cluster Member](https://rlevchenko.com/2026/04/15/fixing-a-broken-etcd-cluster-member/) 
 *Tue, 14 Apr 2026 20:08:18 +0000*
 #### [Why Old Docker Clients No Longer Work In Your Pipelines](https://rlevchenko.com/2026/02/01/why-old-docker-clients-no-longer-work-in-your-pipelines/) 
 *Sun, 01 Feb 2026 18:01:04 +0000*
-#### [Using the GitLab Rails Console: Practical Examples for Managing Container Registry](https://rlevchenko.com/2026/01/18/using-the-gitlab-rails-console-practical-examples-for-managing-container-registry/) 
-*Sun, 18 Jan 2026 16:23:17 +0000*
 <!--END_SECTION:feed-->
 
 </p>
